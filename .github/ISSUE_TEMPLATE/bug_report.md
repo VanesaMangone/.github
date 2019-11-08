@@ -17,11 +17,14 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Actual behavior**
+A clear and concise description of what is happening.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
