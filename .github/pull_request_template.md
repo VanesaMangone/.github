@@ -1,4 +1,11 @@
-Fixes #
+---
+name: Pull request
+about: New PR related to some bug or user story
+title: '[BUG|US] - '
+
+---
+
+Fixes/Closes #
 
 ## Proposed Changes
 
