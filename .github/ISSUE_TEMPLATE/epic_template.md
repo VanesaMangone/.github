@@ -1,12 +1,12 @@
 ---
 name: Epic
-about: Suggest an idea for this project
+about: The list of features related to the epic
 title: '[EPIC] - '
 labels: epic
 assignees: ''
 
 ---
 
-*** Features included ***
-- [] Feature: #
+## Features included
+- [ ] Feature #
 
