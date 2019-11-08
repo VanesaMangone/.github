@@ -1,12 +1,12 @@
 ---
 name: Epic
-about: The list of features related to the epic
+about: The list of user stories related to the epic
 title: '[EPIC] - '
 labels: epic
 assignees: ''
 
 ---
 
-## Features included
-- [ ] Feature #
+## User Stories included in this Epic
+- [ ] US #
 
